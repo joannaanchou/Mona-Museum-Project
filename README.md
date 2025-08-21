@@ -1,7 +1,9 @@
 # 🖼️ Mona Museum｜Java Swing 票務與訂單管理系統
 一款用 Java Swing 打造的桌面應用程式，專為美術館票務與訂單管理設計，結合視覺化報表、會員系統、訂單流程與匯出功能。<br>
-📄 [查看簡報 PDF（完整介紹）](./MONA MUSEUM_Java Swing 票務與訂單管理系統.pdf)
-待插圖
+
+<img src="./screenshots/PDF_demo.png" alt="PDF_demo Screenshot" width="500"/>
+
+📄 [查看簡報 PDF（完整介紹）](./MonaMuseum_JavaSwing票務與訂單管理系統.pdf)
 
 <hr>
 
@@ -25,7 +27,9 @@
 
 <hr>
 
-### 📸 使用畫面預覽(完整使用畫面請見 PDF)
+### 📸 使用畫面預覽
+
+[完整使用畫面請見PDF](./MonaMuseum_JavaSwing票務與訂單管理系統.pdf)
 
 
 #### • Login 畫面展示
